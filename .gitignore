@@ -1,4 +1,4 @@
 .yarn
 node_modules
 out/
-.vscode
+yarn-error.log

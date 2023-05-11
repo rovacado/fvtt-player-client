@@ -4,6 +4,8 @@ const fs = require("fs");
 
 app.commandLine.appendSwitch("force_high_performance_gpu");
 
+if (require('electron-squirrel-startup')) app.quit();
+
 /* Remove the comment (//) from the line below to ignore certificate errors (useful for self-signed certificates) */
 
 //app.commandLine.appendSwitch("ignore-certificate-errors");
@@ -17,6 +19,7 @@ const createWindow = () => {
         show: false,
         width: 800,
         height: 600,
+        icon: 'icon/vttclienticon.png',
         webPreferences: {
             preload: path.join(__dirname, "preload.js"),
             nodeIntegration: false,

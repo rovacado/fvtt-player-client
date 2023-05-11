@@ -1,10 +1,15 @@
 module.exports = {
-  packagerConfig: {},
+  packagerConfig: {
+    icon: 'icon/vttclienticon'
+  },
   rebuildConfig: {},
   makers: [
     {
       name: '@electron-forge/maker-squirrel',
-      config: {},
+      config: {
+        iconUrl: "https://github.com/rovacado/fvtt-player-client/blob/main/icon/vttclienticon.ico?raw=true",
+        setupIcon: 'icon/vttclienticon.ico',
+      },
     },
     {
       name: '@electron-forge/maker-zip',
@@ -12,11 +17,19 @@ module.exports = {
     },
     {
       name: '@electron-forge/maker-deb',
-      config: {},
+      config: {
+        options: {
+          icon: 'icon/vttclienticon.png',
+        }
+      },
     },
     {
       name: '@electron-forge/maker-rpm',
-      config: {},
+      config: {
+        options: {
+          icon: 'icon/vttclienticon.png',
+        }
+      },
     },
   ],
 };
