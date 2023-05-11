@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   id="svg3971"
+   version="1.1"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="vttclienticon.svg"
+   inkscape:export-filename="..\Github\fvtt-player-client\icon\vttclienticon.png"
+   inkscape:export-xdpi="48"
+   inkscape:export-ydpi="48"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title4003">Twenty-Sided Dice</title>
+  <defs
+     id="defs3973">
+    <rect
+       x="90"
+       y="133.92857"
+       width="81.785713"
+       height="32.5"
+       id="rect2615" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#acacac"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6103252"
+     inkscape:cx="159.59509"
+     inkscape:cy="255.22795"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3440"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="1072"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#555555"
+     showborder="true"
+     borderlayer="true" />
+  <metadata
+     id="metadata3976">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:title>Twenty-Sided Dice</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Brian Burger/Wirelizard Design</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Twenty-sided dice (d20) as used in RPGs and wargaming.</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="matrix(1.7403092,0,0,1.7403092,-410.95009,-673.58154)">
+    <path
+       id="rect2836"
+       style="fill:#ffffff;stroke-width:2.21874"
+       d="m 309.6043,489.93804 68.78895,-2.72025 70.65697,2.73077 -24.04394,52.63377 -41.78589,5.84714 -44.44137,-2.16786 z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="path3922"
+       style="display:inline;fill:#5a0c42;fill-opacity:1;stroke:none;stroke-width:0.929344"
+       inkscape:label="path3922"
+       d="m 380.51683,388.52487 c -0.53012,0.018 -1.14076,0.21165 -1.47461,0.67969 l -74.97266,89.70703 c -1.24761,1.56189 -1.33208,1.91141 0.33984,1.92773 l 150.17383,-0.39648 c 2.06387,-0.16864 2.07263,-0.0662 0.73633,-1.81445 l -73.66992,-89.70703 c -0.15231,-0.23718 -0.60232,-0.40952 -1.13281,-0.39649 z m 14.39257,7.99024 67.60743,82.22656 c 0.90558,1.09821 1.12684,1.16225 2.7207,0.39844 l 35.64453,-16.32227 c 2.33482,-1.05376 2.01104,-1.26832 0.45313,-2.32227 z m -31.56445,3.0039 c -0.0316,-0.0671 -0.58035,0.34313 -1.8125,1.18946 l -98.15039,64.60351 30.71484,13.94141 c 1.60231,0.52826 2.07952,0.55503 3.11524,-0.73828 l 64.77344,-77.35157 c 0.91295,-1.05631 1.38979,-1.57743 1.35937,-1.64453 z m 142.75,67.15235 c -0.30499,0.0218 -0.78552,0.19714 -1.5293,0.50976 l -36.60937,16.71875 c -1.29983,0.59008 -1.21763,1.38408 -0.73633,2.37891 L 509.77854,594.23386 506.718,468.48581 c -0.0943,-1.37511 -0.11377,-1.8509 -0.62305,-1.81445 z m -245.49023,3.34375 -3.91016,122.34961 36.04102,-105.85938 c 0.53241,-1.56333 0.52021,-1.64131 -0.56641,-2.15234 z m 195.96093,15.86718 -153.57226,0.39649 c -2.19474,-0.0326 -2.10345,-0.0296 -1.01953,1.75781 l 77.97656,131.5293 c 1.31684,2.00711 1.17475,1.94314 2.54883,-0.11328 l 74.91601,-131.75586 c 0.65571,-1.04652 1.1258,-1.77786 -0.84961,-1.8125 z m 6.1211,3.45703 c -0.1415,0.0599 -0.29576,0.59254 -0.73633,1.41602 l -75.42773,132.71875 c -0.82294,1.40104 -1.01721,1.90433 0.96484,1.58789 l 119.74023,-16.49023 c 1.89905,-0.43358 1.84262,-1.11307 1.19141,-3.00391 L 463.25315,490.81393 c -0.29879,-1.09929 -0.42442,-1.53408 -0.5664,-1.47461 z m -165.58789,1.2461 c -0.14684,0.10512 -0.27859,0.66566 -0.56641,1.47461 L 258.2805,604.66159 c -0.65135,2.39227 -0.72389,3.29104 1.70117,3.74023 l 114.41406,16.54688 c 2.16352,0.32515 1.8862,-0.76559 1.35938,-1.81445 L 297.89183,491.77682 c -0.49006,-0.9923 -0.64678,-1.29694 -0.79297,-1.1914 z m 21.25781,0.53711 h 6.86133 l 15.11328,42.39258 15.11133,-42.39258 h 6.53711 l -17.53907,48.18554 h -8.54296 z m 44.46484,0 h 40.83985 38.57422 v 5.69531 h -17.2168 v 42.49023 h -6.40625 v -42.49023 h -14.95117 -17.2168 v 42.49023 h -6.40625 v -42.49023 h -17.2168 z m -95.47265,123.85156 112.25976,63.69727 c 1.45355,0.88093 1.7944,0.55846 1.58789,-0.96485 l -2.38086,-44.65429 c -0.0648,-1.44112 -0.25932,-2.02874 -1.75586,-2.26758 z m 232.11523,0.11328 -113.96094,15.75391 c -1.50368,0.22159 -1.23158,0.95882 -1.24609,2.03906 l 2.43555,45.44922 c 0.12524,1.379 0.0861,1.87291 1.75781,1.01953 z" />
+  </g>
+</svg>
