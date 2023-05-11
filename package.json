@@ -4,7 +4,7 @@
   "version": "1.3.0",
   "description": "VTT Desktop Client",
   "main": "main.js",
-  "author": "theripper93,Rovacado",
+  "author": "theripper93 and Rovacado",
   "devDependencies": {
     "@electron-forge/cli": "^6.1.1",
     "@electron-forge/maker-deb": "^6.1.1",
